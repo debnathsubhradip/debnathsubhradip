@@ -3,7 +3,7 @@ This is **Subhradip** ! It look's like you have arrived at my profile so let me 
 
 I am 🔭 I’m currently an Computer Science Engineering Grad studying in Institute of Engineering & Management. I'm an AWS Certified Cloud enthusiast and am eager to learn more about Cloud based Decentralised Architecture.
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="79864f52-9dc3-4208-9115-6599abcbca55" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 #### Places to find meee -
 
