@@ -3,15 +3,15 @@ This is **Subhradip** ! It look's like you have arrived at my profile so let me 
 
 I am 🔭 I’m currently an Computer Science Engineering Grad studying in Institute of Engineering & Management. 
 
-<a href="https://www.youracclaim.com/badges/79864f52-9dc3-4208-9115-6599abcbca55/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practioner" width="100"/> </a><br>
+<a href="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/aws-certified-cloud-practitioner.png" width="100"/> </a><br>
 I'm an AWS Certified Cloud enthusiast and am eager to learn more about Cloud based Decentralised Architecture.
 
 #### Places to find meee -
 
-<a href="https://www.facebook.com/subhraofficial"><img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" width="75" alt="Facebook Page"/></a>
-<a href="https://www.linkedin.com/in/thesubhradip/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="75"/></a>
-<a href="https://twitter.com/subh_official"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width="75" alt="Twitter"/> </a>
-<a href="https://t.me/socialistalex"><img src="https://img.favpng.com/12/13/3/computer-icons-png-favpng-hMRB1K6ujmeFxHMaJHsbhavrs.jpg" alt="Telegram" width="75"/> </a><br>
+<a href="https://www.facebook.com/subhraofficial"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/logo/fb.png" width="75" alt="Facebook Page"/></a>
+<a href="https://www.linkedin.com/in/thesubhradip/"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/logo/LinkedIn.png" alt="Linkedin" width="75"/></a>
+<a href="https://twitter.com/subh_official"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/logo/Twitter.png" width="75" alt="Twitter"/> </a>
+<a href="https://t.me/socialistalex"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/logo/telegram.png" alt="Telegram" width="75"/> </a><br>
 #### For more about me, here's my website :blush: <a href="http://subhradip.tk">:link: Website</a>
 
   
