@@ -10,8 +10,8 @@ I am 🔭 I’m currently an Computer Science Engineering Grad studying in Insti
 <a href="https://www.facebook.com/subhraofficial"><img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" width="75" alt="Facebook Page"/></a>
 <a href="https://www.linkedin.com/in/thesubhradip/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="75"/></a>
 <a href="https://twitter.com/subh_official"><img src="https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-superJumbo-v4.jpg" width="75" alt="Twitter"/> </a>
-<a href="https://t.me/socialistalex"><img src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg" width="75" alt="Twitter"/> </a>
-####For more about me, here's my website :blush: <a href="http://subhradip.tk">:link: Website</a>
+<a href="https://t.me/socialistalex"><img src="https://img.favpng.com/12/13/3/computer-icons-png-favpng-hMRB1K6ujmeFxHMaJHsbhavrs.jpg" alt="Telegram"/> </a><br>
+#### For more about me, here's my website :blush: <a href="http://subhradip.tk">:link: Website</a>
 
   
 
