@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is **Subhradip** ! It look's like you have arrived at my profile so let me tell you about me.
 
-I am 🔭 I’m currently an Computer Science Engineering Grad studying in Institute of Engineering & Management. 
+I’m currently an Computer Science Engineering Grad studying in Institute of Engineering & Management. 
 
 <a href="https://www.youracclaim.com/badges/79864f52-9dc3-4208-9115-6599abcbca55/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practioner" width="100"/> </a><br>
 I'm an AWS Certified Cloud enthusiast and am eager to learn more about Cloud based Decentralised Architecture.
