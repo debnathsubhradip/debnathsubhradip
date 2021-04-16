@@ -3,7 +3,8 @@ This is **Subhradip** ! It look's like you have arrived at my profile so let me 
 
 I’m currently an Computer Science Engineering Grad studying in Institute of Engineering & Management. 
 
-<a href="https://www.youracclaim.com/badges/79864f52-9dc3-4208-9115-6599abcbca55/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practioner" width="100"/> </a><br>
+<a href="https://www.youracclaim.com/badges/79864f52-9dc3-4208-9115-6599abcbca55/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practioner" width="100"/> </a><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5a1533c0-52be-4d91-ab0a-5b5778bdc195" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
 I'm an AWS Certified Cloud enthusiast and am eager to learn more about Cloud based Decentralised Architecture.
 
 #### Places to find meee -
