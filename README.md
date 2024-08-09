@@ -2,9 +2,6 @@
 This is **Subhradip** ! It look's like you have arrived at my profile so let me tell you about me.
 
 I’m a Cloud Computing Engineer by profession. To get more updates on my profile kindly follow my Linkedin / Website.
-
-<a href="https://www.youracclaim.com/badges/79864f52-9dc3-4208-9115-6599abcbca55/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practioner" width="100"/> </a>
-<a href="https://www.credly.com/badges/5a1533c0-52be-4d91-ab0a-5b5778bdc195/public_url"><img src="https://raw.githubusercontent.com/debnathsubhradip/debnathsubhradip/main/achievements/cloud-computing-core.png" alt="Cloud Computing Core (edX)" width="100"/> </a>
 <br>
 
 Updated Certfication List is mentioned on my Linkedin and Website.
